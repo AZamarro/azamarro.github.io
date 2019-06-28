@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi página personal
 
-You can use the [editor on GitHub](https://github.com/AZamarro/azamarro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Soy Técnico Superior en Desarrollo de Aplicaciones Informáticas desde 2004 desarrollando todo tipo de actividades relacionadas con el sector (Flash, QA, diseño, administrador de Moodle, etc) aunque en los últimos años me he especializado en desarrollo Front.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Valoro mucho el trabajo en equipo (y su gestión), las metodologías Agile, Clean Code y aprender cada día aportando mis conocimientos y entusiasmo por la programación.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AZamarro/azamarro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Las tecnologías que me apasionan: Git (y GitHub), AngularJs, Angular, Bootstrap... Y las que quiero aprender próximamente: Redux, Angular Material, Ionic...
