@@ -22,7 +22,7 @@ Me apasiona escribir código limpio y mantenible (**Clean Code**), trabajar bajo
 
 Cuando cierro el IDE, me gusta mantener la mente y el cuerpo activos a través de disciplinas muy variadas. Disfruto profundamente pintando miniaturas de **Warhammer**, un hobby que pone a prueba mi paciencia, la atención al detalle y el enfoque milimétrico (quizás por eso valoro tanto el *Clean Code*). 
 
-En el plano físico, compagino la programación con el **fitness** y la práctica de **artes marciales**, actividades que me aportan disciplina, capacidad de superación constante y el equilibrio perfecto para afrontar los retos técnicos del día a día.
+En el plano físico, compagino la programación con el **fitness** y la práctica de **artes marciales**, actividades que me aportan disciplina, capacidad de superación constante y el equilibrio perfecto para afrontar los retos técnicos del día a día. Sobre estas vivencias y la conexión entre el crecimiento físico y mental he escrito algunas reflexiones: puedes leer mi artículo completo sobre [Cuerpo y Mente en Club Tsunami](https://www.clubtsunami.es/website/cuerpo-y-mente/).
 
 ---
 
