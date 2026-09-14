@@ -1,7 +1,17 @@
 ## Bienvenido a mi página personal
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Informáticas desde 2004 desarrollando todo tipo de actividades relacionadas con el sector (Flash, QA, diseño, administrador de Moodle, etc) aunque en los últimos años me he especializado en desarrollo Front.
+### Front-end & Angular Tech Lead | Desarrollador Senior Web | Clean Code & Agile
 
-Valoro mucho el trabajo en equipo (y su gestión), las metodologías Agile, Clean Code y aprender cada día aportando mis conocimientos y entusiasmo por la programación.
+Técnico Superior en Desarrollo de Aplicaciones (DAI) con más de 20 años de trayectoria en el sector tecnológico. A lo largo de mi carrera he evolucionado abarcando áreas como QA, diseño, administración de plataformas y desarrollo web, consolidando en los últimos años mi especialización en desarrollo Front-end.
 
-Las tecnologías que me apasionan: Git (y GitHub), AngularJs, Angular, Bootstrap... Y las que quiero aprender próximamente: Redux, Angular Material, Ionic...
+
+
+Recientemente he desempeñado el rol de Jefe de Equipo Front/Angular, liderando el desarrollo de aplicaciones en el entorno FHIR, gestionando tareas y proyectos en Azure DevOps y disfrutando especialmente de la coordinación técnica y humana.
+
+
+
+Me apasiona escribir código limpio y mantenible (Clean Code), trabajar bajo metodologías Agile y fomentar la colaboración y el buen ambiente en equipo.
+
+
+
+Stack tecnológico: Angular, TypeScript, Git, Azure DevOps, Agile / Scrum, FHIR, etc.
